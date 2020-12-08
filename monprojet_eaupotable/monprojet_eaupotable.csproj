@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CA\Cl_clients.cs" />
+    <Compile Include="CA\Cl_consommation.cs" />
+    <Compile Include="DA\Cl_login.cs" />
     <Compile Include="DA\DataAccess.cs" />
     <Compile Include="FORMs\Form1.cs">
       <SubType>Form</SubType>

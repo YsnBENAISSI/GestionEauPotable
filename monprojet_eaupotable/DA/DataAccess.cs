@@ -35,7 +35,7 @@ namespace monprojet_eaupotable
             }
         }
         //read
-        
+
         public DataTable Select(string proc_stock, SqlParameter[] param)
         {
             SqlCommand cmd = new SqlCommand();
